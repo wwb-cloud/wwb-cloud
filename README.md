@@ -1,6 +1,6 @@
  -ncu24级软件工程本科生  
- -安卓客户端开发  
- -java/kotlin  
+ -不知道自己想干嘛端开发
+ -java/kotlin/dart 
 
 <!---
 wwb-cloud/wwb-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
