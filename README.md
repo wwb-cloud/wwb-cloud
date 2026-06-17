@@ -1,6 +1,6 @@
  -ncu24级软件工程本科生  
- -不知道自己想干嘛端开发  
- -java/kotlin/dart 
+ -腾讯wxg客户端实习ing（🐧最忠实的孝子）  
+ -java/kotlin/dart/js/c++
 
 <!---
 wwb-cloud/wwb-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
